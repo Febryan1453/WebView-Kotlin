@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Febryan</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Pengaturan</string>
+
+    <string name="menu_home">Beranda</string>
+    <string name="menu_gallery">Galeri</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_webview">Halaman Web</string>
+    <string name="action_logout">Keluar</string>
+
+</resources>
